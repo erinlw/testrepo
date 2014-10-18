@@ -1,4 +1,8 @@
 testrepo
 ========
+#Test Repository
+##This is my first test
+*I'm scared*
 
-this is my first test
+Go to [GitHub Education](https://education.github.com)
+
